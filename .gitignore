@@ -1,3 +1,17 @@
+# Data files
+data/raw/*.csv
+data/raw/*.xlsx
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Saved models
+models/*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
